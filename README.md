@@ -1,0 +1,1 @@
+A reorder simulation tool to calculate reorder points across different SKUs using Python, Microsoft Excel, and SQL for data analysis, mathematical equations to determine ROP and EOQ and simulating delays or product demand.
